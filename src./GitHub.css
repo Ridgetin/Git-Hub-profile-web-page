@@ -1,0 +1,110 @@
+.github-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .profile-card {
+    width: 320px;
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .profile-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .profile-card h1 {
+    font-size: 22px;
+    margin-top: 10px;
+    color: #fff;
+  }
+  
+  .profile-card p {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  
+  .github-btn {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    color: #8b8bff;
+    font-size: 14px;
+    margin-top: 8px;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .github-btn:hover {
+    color: #ffffff;
+    transform: scale(1.05);
+  }
+  
+  .section-title {
+    font-size: 24px;
+    margin-top: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .repo-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .repo-card {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    border-radius: 10px;
+    width: 250px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .repo-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .repo-btn {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    color: #8b8bff;
+    font-size: 14px;
+    margin-top: 8px;
+  }
+  
+  .repo-btn:hover {
+    color: #ffffff;
+    transform: scale(1.05);
+  }
+  
+  .back-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .back-btn:hover {
+    color: #8b8bff;
+  }
+  
