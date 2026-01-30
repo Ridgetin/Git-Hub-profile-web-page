@@ -24,8 +24,8 @@ My React App is a dynamic and responsive web application built with **React 19**
 ## 📦 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/my-react-app.git
-cd my-react-app
+git clone https://github.com/Ridgetin/Git-Hub-profile-web-page
+cd Git-Hub-profile-web-page
 ```
 ### 2️⃣ Install Dependencies
 ```bash
